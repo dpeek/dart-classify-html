@@ -1,0 +1,9 @@
+name: classify_html
+version: 0.1.0
+author: David Peek <ninjascript@gmail.com>
+description: A library for classifying HTML.
+homepage: https://github.com/dpeek/dart-classify-html
+dependencies:
+  html5lib: ">=0.4.3"
+dev_dependencies:
+  unittest: any
